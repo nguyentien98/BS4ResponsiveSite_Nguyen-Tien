@@ -11,6 +11,7 @@ Người thực hiện: [ Tiến Nguyễn ](https://github.com/tiennguyen98)
 ## Liên kết
 
 * [Link bài online](https://tiennguyen98.github.io/BS4ResponsiveSite_Nguyen-Tien/index.html)
+* [Link tìm hiểu về Bootstrap 4](https://gist.github.com/tiennguyen98/ebefe06b499a551a89a64de5f71640b6)
 
 ## Kiến thức nắm được
 * Biết download và sử dụng Bootstrap 4 cơ bản
